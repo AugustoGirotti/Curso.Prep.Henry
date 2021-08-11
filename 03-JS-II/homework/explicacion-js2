@@ -1,0 +1,5 @@
+El bucle for nos permite ejecutar una expresion la cantidad de veces que querramos
+El operador logico && evalua dos expresiones y, si son ambas verdaderas, retorna un true, si al menos una de ellas es falsa retorna un false. Este operador nos sirve para
+los condicionales
+El operador logico || evalua dos expresiones y, si por lo menos una de ellas es verdadera retorna true, si no retorna false. Se usa en los condicionales
+El operador logico ! devuelve el valor opuesto de lo que pasa, es como negar una expresion.
