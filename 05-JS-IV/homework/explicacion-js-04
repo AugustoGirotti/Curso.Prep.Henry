@@ -1,0 +1,6 @@
+Los objetos nos permiten definir una variable y dentro de este objeto poner toda la informacion sobre ella.
+Las propiedades son las caracteristicas de este objeto, se conforman por una palabra clave, que dentro de ella contiene un valor.
+Los objetos son como las propiedades, la diferencia es que el valor dentro de la clave se obtiene mediante una funcion.
+El for in es un bucle que recorre las claves del objeto, mediante esta herramienta se puede acceder tambien a los valores
+Con la notacion de puntos podemos acceder al valor de una propiedad del objeto, haciendo el nombredelobjeto.nombredelaclave. Con la notacion de corchetes accedemos al valor
+de una propiedad haciendo nombredelobjeto['nombredelaclave'], en el caso de que la clave sea una variable no se usan las comillas.
